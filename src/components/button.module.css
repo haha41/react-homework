@@ -1,0 +1,51 @@
+
+.button {
+  width: 340px;
+  height: 54px;
+  border: 1px solid #5F0080;
+  border-radius: 5px;
+  background: #5F0080;
+  color: white;
+}
+
+.buttonHover {
+  width: 340px;
+  height: 54px;
+  border: 1px solid #5F0080;
+  border-radius: 5px;
+  background: transparent;
+  color: #5F0080;
+}
+
+
+/* .signUpButton {
+  width: 340px;
+  height: 54px;
+  background-color: #5F0080;
+  color: white;
+  border: 1px solid #5F0080;
+  border-radius: 5px;
+}
+.signUpButtonHover {
+  width: 340px;
+  height: 54px;
+  background: transparent;
+  color: #5F0080;
+  border-color: #5F0080;
+  border: 1px solid #5F0080;
+} */
+
+/* .signUpButton {
+  width: 340px;
+  height: 54px;
+  background-color: #5F0080;
+  color: white;
+  border: 1px solid #5F0080;
+  border-radius: 5px;
+
+  &:hover {
+    border-color: #5F0080;
+    background: transparent;
+    color: #5F0080;
+  }
+} */
